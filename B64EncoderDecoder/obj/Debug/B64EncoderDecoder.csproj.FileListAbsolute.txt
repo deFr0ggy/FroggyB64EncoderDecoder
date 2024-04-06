@@ -1,0 +1,10 @@
+C:\Users\Kamran Saifullah\Desktop\C# Codes\B64EncoderDecoder\bin\Debug\B64EncoderDecoder.exe.config
+C:\Users\Kamran Saifullah\Desktop\C# Codes\B64EncoderDecoder\bin\Debug\B64EncoderDecoder.exe
+C:\Users\Kamran Saifullah\Desktop\C# Codes\B64EncoderDecoder\bin\Debug\B64EncoderDecoder.pdb
+C:\Users\Kamran Saifullah\Desktop\C# Codes\B64EncoderDecoder\obj\Debug\B64EncoderDecoder.csproj.AssemblyReference.cache
+C:\Users\Kamran Saifullah\Desktop\C# Codes\B64EncoderDecoder\obj\Debug\B64EncoderDecoder.MainForm.resources
+C:\Users\Kamran Saifullah\Desktop\C# Codes\B64EncoderDecoder\obj\Debug\B64EncoderDecoder.Properties.Resources.resources
+C:\Users\Kamran Saifullah\Desktop\C# Codes\B64EncoderDecoder\obj\Debug\B64EncoderDecoder.csproj.GenerateResource.cache
+C:\Users\Kamran Saifullah\Desktop\C# Codes\B64EncoderDecoder\obj\Debug\B64EncoderDecoder.csproj.CoreCompileInputs.cache
+C:\Users\Kamran Saifullah\Desktop\C# Codes\B64EncoderDecoder\obj\Debug\B64EncoderDecoder.exe
+C:\Users\Kamran Saifullah\Desktop\C# Codes\B64EncoderDecoder\obj\Debug\B64EncoderDecoder.pdb
